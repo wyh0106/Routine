@@ -1,0 +1,17 @@
+.\out\Release\misc.o: .\deps\STM32F1xx_DFP\StdPeriphDrivers.Framework\misc.c
+.\out\Release\misc.o: .\deps\STM32F1xx_DFP\StdPeriphDrivers.Framework\misc.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\Include\stm32f10x.h
+.\out\Release\misc.o: .\lib\CMSIS\core_cm3.h
+.\out\Release\misc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\Release\misc.o: .\lib\CMSIS\cmsis_version.h
+.\out\Release\misc.o: .\lib\CMSIS\cmsis_compiler.h
+.\out\Release\misc.o: .\lib\CMSIS\cmsis_armcc.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\Include\system_stm32f10x.h
+.\out\Release\misc.o: .\deps\STM32F1xx_DFP\StdPeriphDrivers.Framework\stm32f10x_conf.h
+.\out\Release\misc.o: .\deps\RTE_Components.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\Include\stm32f10x.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\out\Release\misc.o: .\pack\Keil\STM32F1xx_DFP.2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\out\Release\misc.o: .\deps\STM32F1xx_DFP\StdPeriphDrivers.Framework\misc.h
