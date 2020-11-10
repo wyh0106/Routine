@@ -4,8 +4,8 @@
 #include "uart.h"
 
 // 选择需要启用的USART串口
-#define USART_1		0
-#define USART_2		1
+#define USART_1		1
+#define USART_2		0
 #define USART_3		0
 #define UART_4		0
 #define UART_5		0
