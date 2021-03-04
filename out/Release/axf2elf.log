@@ -1,0 +1,4 @@
+objcopy.exe --update-section ER_IROM1="c:\Users\weiyh\Desktop\SingleChip\STM32\LibrrayVer\out\Release\LibrrayVer.bin" "c:\Users\weiyh\Desktop\SingleChip\STM32\LibrrayVer\out\Release\LibrrayVer.axf" "c:\Users\weiyh\Desktop\SingleChip\STM32\LibrrayVer\out\Release\LibrrayVer.elf"
+
+objcopy.exe: c:\Users\weiyh\Desktop\SingleChip\STM32\LibrrayVer\out\Release\LibrrayVer.elf: warning: allocated section `RW_IRAM1' not in segment
+

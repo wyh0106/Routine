@@ -20,6 +20,8 @@
         ]
     },
     "asm-compiler": {},
-    "linker": {},
-    "version": 2
+    "linker": {
+        "output-format": "elf"
+    },
+    "version": 3
 }
